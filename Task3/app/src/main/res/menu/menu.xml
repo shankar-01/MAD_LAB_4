@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:title="Music"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/speak"
+        android:icon="@drawable/ic_baseline_keyboard_voice_24"
+        android:title="Speak"
+        app:showAsAction="always" />
+</menu>
